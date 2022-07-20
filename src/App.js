@@ -27,11 +27,7 @@ function App() {
 
   return (
     <div className="App">
-     <div className='logo-contenedor'>
-      <img src={gorilaLogo}
-      className='logo'
-      alt='logo'/>
-     </div>
+     
 
      <div className='contenedor-calculadora'>
       <Pantalla input={input}/>
