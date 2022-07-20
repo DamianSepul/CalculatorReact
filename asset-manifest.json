@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CalculatorReact/static/css/main.bbd95107.css",
+    "main.js": "/CalculatorReact/static/js/main.651d6a40.js",
+    "static/media/Gorila-marron.png": "/CalculatorReact/static/media/Gorila-marron.de6c693f3adba5f607a9.png",
+    "index.html": "/CalculatorReact/index.html",
+    "main.bbd95107.css.map": "/CalculatorReact/static/css/main.bbd95107.css.map",
+    "main.651d6a40.js.map": "/CalculatorReact/static/js/main.651d6a40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbd95107.css",
+    "static/js/main.651d6a40.js"
+  ]
+}
